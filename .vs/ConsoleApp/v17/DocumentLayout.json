@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|solutionrelative:testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\testproject\\squaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|solutionrelative:testproject\\squaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\testproject\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|solutionrelative:testproject\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\classlibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\classlibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\classlibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0777FB7-E2E5-431C-9F0F-F0A4967FB676}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0777FB7-E2E5-431C-9F0F-F0A4967FB676}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\classlibrary\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{708A32AD-EA67-4C78-84F1-DC22DD058BA4}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0777FB7-E2E5-431C-9F0F-F0A4967FB676}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0777FB7-E2E5-431C-9F0F-F0A4967FB676}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\ankit\\source\\repos\\consoleapp\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{630E3D66-48E4-479B-864F-890599BC922E}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestProject",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T15:51:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriangleTest.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TriangleTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\TriangleTest.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TriangleTest.cs",
+              "RelativeToolTip": "TestProject\\TriangleTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:52:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectangleTest.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\RectangleTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\RectangleTest.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\RectangleTest.cs",
+              "RelativeToolTip": "TestProject\\RectangleTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:51:14.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:20:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Rectangle.cs",
+              "RelativeToolTip": "ClassLibrary\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:50:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Triangle.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Triangle.cs",
+              "RelativeToolTip": "ClassLibrary\\Triangle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:50:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\IShape.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\IShape.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\IShape.cs",
+              "RelativeToolTip": "ClassLibrary\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:49:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Square.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Square.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\Square.cs",
+              "RelativeToolTip": "ClassLibrary\\Square.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:50:26.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquareTest.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\SquareTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\SquareTest.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\SquareTest.cs",
+              "RelativeToolTip": "TestProject\\SquareTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:52:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T00:43:40.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
+              "ViewState": "AQIAABgAAAAA54CMvzkgwBcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T00:46:17.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

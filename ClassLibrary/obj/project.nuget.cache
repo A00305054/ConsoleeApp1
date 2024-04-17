@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eFNooxdUbufEkpE9L1NE8E8ClDWiMDKfudzHft+NsxX5T40Rdf657t8S0Es21ncx3yIV1VWRkPcvrn5lN92sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.2\\microsoft.extensions.caching.abstractions.2.1.2.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.23\\microsoft.extensions.caching.memory.2.1.23.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.10\\microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.featuremanagement\\3.2.0\\microsoft.featuremanagement.3.2.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.featuremanagement.aspnetcore\\3.2.0\\microsoft.featuremanagement.aspnetcore.3.2.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.1.0\\microsoft.testing.extensions.telemetry.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.1.0\\microsoft.testing.extensions.trxreport.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.1.0\\microsoft.testing.extensions.vstestbridge.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testing.platform\\1.1.0\\microsoft.testing.platform.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.1.0\\microsoft.testing.platform.msbuild.1.1.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testplatform\\17.9.0\\microsoft.testplatform.17.9.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\mstest.testadapter\\3.3.1\\mstest.testadapter.3.3.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\mstest.testframework\\3.3.1\\mstest.testframework.3.3.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\shapes\\1.0.6\\shapes.1.0.6.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\wodsoft.extensions.configuration\\1.1.2\\wodsoft.extensions.configuration.1.1.2.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\wodsoft.extensions.configuration.abstractions\\1.1.2\\wodsoft.extensions.configuration.abstractions.1.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Wodsoft.Extensions.Configuration 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Wodsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Wodsoft.Extensions.Configuration.Abstractions 1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Wodsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
