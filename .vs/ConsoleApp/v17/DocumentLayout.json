@@ -63,15 +63,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TestProject",
+              "Title": "TestProject.csproj",
               "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TestProject.csproj",
               "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
               "ToolTip": "C:\\Users\\ankit\\source\\repos\\ConsoleApp\\TestProject\\TestProject.csproj",
               "RelativeToolTip": "TestProject\\TestProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T15:51:44.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T15:51:44.691Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "TestProject\\RectangleTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T15:51:14.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T15:51:14.943Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "ConsoleApp\\Program.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwHoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:20:02.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T23:20:02.201Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "ClassLibrary\\Rectangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:50:41.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:50:41.026Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "ClassLibrary\\Triangle.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:50:55.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:50:55.878Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "ClassLibrary\\IShape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:49:51.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:49:51.94Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "ClassLibrary\\Square.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T00:50:26.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:50:26.313Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "TestProject\\SquareTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T15:52:01.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T15:52:01.684Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T00:43:40.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:43:40.921Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
               "ViewState": "AQIAABgAAAAA54CMvzkgwBcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T00:46:17.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T00:46:17.677Z"
             }
           ]
         }
